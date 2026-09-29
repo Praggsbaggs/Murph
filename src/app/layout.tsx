@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Campaign Post-Mortem | Digital Marketing AI Analyst",
+  title: "Interseller | AI Ad Campaign Analyst",
   description:
     "Upload your ad campaign CSV, automatically compute KPIs (CTR, CPC, CPA, ROAS), and generate plain-language AI post-mortems with actionable A/B test recommendations.",
 };
@@ -37,7 +37,7 @@ export default function RootLayout({
           <main className="flex-1 flex flex-col">{children}</main>
           <footer className="border-t border-slate-200 dark:border-slate-800/80 py-6 text-center text-xs text-slate-500 dark:text-slate-500 bg-white/50 dark:bg-slate-950/50 print:hidden">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-2">
-              <p>Campaign Post-Mortem &bull; Digital Marketing Course Project</p>
+              <p>Interseller &bull; Digital Marketing Course Project</p>
               <p className="text-slate-400 dark:text-slate-600">
                 100% In-Memory Processing &bull; No files stored &bull; Powered by Gemini 3.8 Flash
               </p>

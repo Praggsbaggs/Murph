@@ -48,7 +48,7 @@ export default function LandingPage() {
 
           {/* One-paragraph explanation as requested */}
           <p className="mt-6 text-lg sm:text-xl text-slate-600 dark:text-slate-300 max-w-3xl mx-auto leading-relaxed">
-            Small businesses and students run ad campaigns across Meta and Google, but complex dashboards make it hard to know what actually worked. Campaign Post-Mortem calculates your exact marketing KPIs in safe TypeScript code, then uses Google Gemini to write an objective, plain-language diagnostic: highlighting winners, breaking down underperformers, and prescribing rigorous one-variable A/B tests to run next.
+            Small businesses and students run ad campaigns across Meta and Google, but complex dashboards make it hard to know what actually worked. Interseller calculates your exact marketing KPIs in safe TypeScript code, then uses Google Gemini to write an objective, plain-language diagnostic: highlighting winners, breaking down underperformers, and prescribing rigorous one-variable A/B tests to run next.
           </p>
 
           {/* Action Buttons */}
@@ -90,7 +90,7 @@ export default function LandingPage() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-xl mx-auto mb-10">
             <h2 className="text-2xl font-bold text-slate-900 dark:text-white">
-              How Campaign Post-Mortem Works
+              How Interseller Works
             </h2>
             <p className="text-sm text-slate-600 dark:text-slate-400 mt-2">
               Clear mathematical calculation paired with rigorous qualitative diagnosis.

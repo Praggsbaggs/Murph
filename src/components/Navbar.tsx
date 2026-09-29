@@ -21,7 +21,7 @@ export function Navbar() {
     },
     {
       href: "/report",
-      label: "AI Post-Mortem",
+      label: "AI Report",
       icon: Sparkles,
     },
   ];
@@ -36,10 +36,10 @@ export function Navbar() {
             </div>
             <div>
               <span className="font-bold text-lg text-slate-900 dark:text-white tracking-tight">
-                Campaign<span className="text-indigo-600 dark:text-indigo-400">Post-Mortem</span>
+                Inter<span className="text-indigo-600 dark:text-indigo-400">seller</span>
               </span>
               <span className="hidden sm:inline-block ml-2 text-xs font-medium px-2 py-0.5 rounded-full bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-400">
-                Course Edition
+                AI Ad Analyst
               </span>
             </div>
           </Link>
